@@ -11,3 +11,7 @@ Research project to make my pwa application seo friendly. Project's goal is to e
   - [jekyll](https://jekyllrb.com) - Transform your plain text into static websites and blogs.
   - [netlify](https://www.netlify.com) - Build, deploy, and manage
     modern web projects.
+
+### Usefull tools
+
+- [ngrok.com](https://ngrok.com/) - public urls for testing your localhost.
